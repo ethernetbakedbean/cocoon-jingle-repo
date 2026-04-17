@@ -22,8 +22,8 @@
                         "file":  "jingles/gb/game-and-watch-gallery.mp3"
                     },
                     {
-                        "game":  "Metroid II - Return of Samus",
-                        "file":  "jingles/gb/metroid-ii-return-of-samus.mp3"
+                        "game":  "Metroid II - Return of Samus [h1]",
+                        "file":  "jingles/gb/metroid-ii-return-of-samus-[h1].mp3"
                     },
                     {
                         "game":  "Mole Mania",
@@ -50,16 +50,16 @@
                         "file":  "jingles/gb/wario-land-ii.mp3"
                     },
                     {
-                        "game":  "Wave Race",
-                        "file":  "jingles/gb/waverace.mp3"
+                        "game":  "Wave Race [!]",
+                        "file":  "jingles/gb/waverace-[!].mp3"
                     },
                     {
                         "game":  "X",
                         "file":  "jingles/gb/x.mp3"
                     },
                     {
-                        "game":  "Banjo-Kazooie - Gruntys Revenge",
-                        "file":  "jingles/gba/banjo-kazooie-gruntys-revenge.mp3"
+                        "game":  "Banjo-Kazooie - Grunty\u0027s Revenge",
+                        "file":  "jingles/gba/banjo-kazooie-grunty\u0027s-revenge.mp3"
                     },
                     {
                         "game":  "Banjo-Pilot",
@@ -334,8 +334,8 @@
                         "file":  "jingles/gba/super-mario-advance-2-super-mario-world.mp3"
                     },
                     {
-                        "game":  "Super Mario Advance 3 - Yoshis Island",
-                        "file":  "jingles/gba/super-mario-advance-3-yoshis-island.mp3"
+                        "game":  "Super Mario Advance 3 - Yoshi\u0027s Island",
+                        "file":  "jingles/gba/super-mario-advance-3-yoshi\u0027s-island.mp3"
                     },
                     {
                         "game":  "Super Mario Advance 4 - Super Mario Bros. 3",
@@ -346,8 +346,8 @@
                         "file":  "jingles/gba/super-mario-advance-4-[wii-u-e-reader-levels-+-3-fix].mp3"
                     },
                     {
-                        "game":  "Super Mariomonâ€‹",
-                        "file":  "jingles/gba/super-mariomonâ€‹.mp3"
+                        "game":  "Super Mariomon",
+                        "file":  "jingles/gba/super-mariomon.mp3"
                     },
                     {
                         "game":  "Super Monkey Ball Jr.",
@@ -366,8 +366,8 @@
                         "file":  "jingles/gba/ty-the-tasmanian-tiger-3-night-of-the-quinkan.mp3"
                     },
                     {
-                        "game":  "Wade Hixtons Counter Punch",
-                        "file":  "jingles/gba/wade-hixtons-counter-punch.mp3"
+                        "game":  "Wade Hixton\u0027s Counter Punch",
+                        "file":  "jingles/gba/wade-hixton\u0027s-counter-punch.mp3"
                     },
                     {
                         "game":  "Wario Land 4",
@@ -382,8 +382,8 @@
                         "file":  "jingles/gbc/game-and-watch-gallery-3.mp3"
                     },
                     {
-                        "game":  "Legend of Zelda, The - Links Awakening DX",
-                        "file":  "jingles/gbc/legend-of-zelda,-the-links-awakening-dx.mp3"
+                        "game":  "Legend of Zelda, The - Link\u0027s Awakening DX",
+                        "file":  "jingles/gbc/legend-of-zelda,-the-link\u0027s-awakening-dx.mp3"
                     },
                     {
                         "game":  "Legend of Zelda, The - Oracle of Ages",
@@ -474,8 +474,8 @@
                         "file":  "jingles/n3ds/crimson-shroud.mp3"
                     },
                     {
-                        "game":  "Dillons Dead-Heat Breakers",
-                        "file":  "jingles/n3ds/dillons-dead-heat-breakers.mp3"
+                        "game":  "Dillon\u0027s Dead-Heat Breakers",
+                        "file":  "jingles/n3ds/dillon\u0027s-dead-heat-breakers.mp3"
                     },
                     {
                         "game":  "Dillons Rolling Western",
@@ -570,8 +570,8 @@
                         "file":  "jingles/n3ds/legend-of-zelda,-the-a-link-between-worlds.mp3"
                     },
                     {
-                        "game":  "Legend of Zelda, The - Majoras Mask 3D",
-                        "file":  "jingles/n3ds/legend-of-zelda,-the-majoras-mask-3d.mp3"
+                        "game":  "Legend of Zelda, The - Majora\u0027s Mask 3D",
+                        "file":  "jingles/n3ds/legend-of-zelda,-the-majora\u0027s-mask-3d.mp3"
                     },
                     {
                         "game":  "Legend of Zelda, The - Ocarina of Time 3D",
@@ -586,16 +586,16 @@
                         "file":  "jingles/n3ds/liberation-maiden.mp3"
                     },
                     {
-                        "game":  "Luigis Mansion",
-                        "file":  "jingles/n3ds/luigis-mansion.mp3"
+                        "game":  "Luigi\u0027s Mansion",
+                        "file":  "jingles/n3ds/luigi\u0027s-mansion.mp3"
                     },
                     {
-                        "game":  "Luigis Mansion 2",
-                        "file":  "jingles/n3ds/luigis-mansion-2.mp3"
+                        "game":  "Luigi\u0027s Mansion 2",
+                        "file":  "jingles/n3ds/luigi\u0027s-mansion-2.mp3"
                     },
                     {
-                        "game":  "Mario and Luigi - Bowsers Inside Story + Bowser Jr.s Journey",
-                        "file":  "jingles/n3ds/mario-and-luigi-bowsers-inside-story-+-bowser-jr.s-journey.mp3"
+                        "game":  "Mario and Luigi - Bowser\u0027s Inside Story + Bowser Jr.\u0027s Journey",
+                        "file":  "jingles/n3ds/mario-and-luigi-bowser\u0027s-inside-story-+-bowser-jr.\u0027s-journey.mp3"
                     },
                     {
                         "game":  "Mario and Luigi - Dream Team Bros.",
@@ -606,8 +606,8 @@
                         "file":  "jingles/n3ds/mario-and-luigi-paper-jam-bros..mp3"
                     },
                     {
-                        "game":  "Mario and Luigi - Superstar Saga + Bowsers Minions",
-                        "file":  "jingles/n3ds/mario-and-luigi-superstar-saga-+-bowsers-minions.mp3"
+                        "game":  "Mario and Luigi - Superstar Saga + Bowser\u0027s Minions",
+                        "file":  "jingles/n3ds/mario-and-luigi-superstar-saga-+-bowser\u0027s-minions.mp3"
                     },
                     {
                         "game":  "Mario Golf - World Tour",
@@ -722,8 +722,8 @@
                         "file":  "jingles/n3ds/pokemon-y.mp3"
                     },
                     {
-                        "game":  "Poochy and Yoshis Woolly World",
-                        "file":  "jingles/n3ds/poochy-and-yoshis-woolly-world.mp3"
+                        "game":  "Poochy and Yoshi\u0027s Woolly World",
+                        "file":  "jingles/n3ds/poochy-and-yoshi\u0027s-woolly-world.mp3"
                     },
                     {
                         "game":  "Pullblox",
@@ -742,8 +742,8 @@
                         "file":  "jingles/n3ds/rhythm-paradise-megamix.mp3"
                     },
                     {
-                        "game":  "Rhythm Thief and the Emperors Treasure",
-                        "file":  "jingles/n3ds/rhythm-thief-and-the-emperors-treasure.mp3"
+                        "game":  "Rhythm Thief and the Emperor\u0027s Treasure",
+                        "file":  "jingles/n3ds/rhythm-thief-and-the-emperor\u0027s-treasure.mp3"
                     },
                     {
                         "game":  "Scribblenauts Unlimited",
@@ -802,8 +802,8 @@
                         "file":  "jingles/n3ds/yo-kai-watch-3.mp3"
                     },
                     {
-                        "game":  "Yoshis New Island",
-                        "file":  "jingles/n3ds/yoshis-new-island.mp3"
+                        "game":  "Yoshi\u0027s New Island",
+                        "file":  "jingles/n3ds/yoshi\u0027s-new-island.mp3"
                     },
                     {
                         "game":  "1080 Snowboarding",
@@ -838,8 +838,8 @@
                         "file":  "jingles/n64/chameleon-twist-2.mp3"
                     },
                     {
-                        "game":  "Conkers Bad Fur Day",
-                        "file":  "jingles/n64/conkers-bad-fur-day.mp3"
+                        "game":  "Conker\u0027s Bad Fur Day",
+                        "file":  "jingles/n64/conker\u0027s-bad-fur-day.mp3"
                     },
                     {
                         "game":  "Diddy Kong Racing",
@@ -878,8 +878,8 @@
                         "file":  "jingles/n64/glover.mp3"
                     },
                     {
-                        "game":  "Goemons Great Adventure",
-                        "file":  "jingles/n64/goemons-great-adventure.mp3"
+                        "game":  "Goemon\u0027s Great Adventure",
+                        "file":  "jingles/n64/goemon\u0027s-great-adventure.mp3"
                     },
                     {
                         "game":  "GoldenEye 007",
@@ -902,8 +902,8 @@
                         "file":  "jingles/n64/kirby-64-the-crystal-shards.mp3"
                     },
                     {
-                        "game":  "Legend of Zelda, The - Majoras Mask",
-                        "file":  "jingles/n64/legend-of-zelda,-the-majoras-mask.mp3"
+                        "game":  "Legend of Zelda, The - Majora\u0027s Mask",
+                        "file":  "jingles/n64/legend-of-zelda,-the-majora\u0027s-mask.mp3"
                     },
                     {
                         "game":  "Legend of Zelda, The - Ocarina of Time",
@@ -1002,8 +1002,8 @@
                         "file":  "jingles/n64/wave-race-64-kawasaki-jet-ski.mp3"
                     },
                     {
-                        "game":  "Yoshis Story",
-                        "file":  "jingles/n64/yoshis-story.mp3"
+                        "game":  "Yoshi\u0027s Story",
+                        "file":  "jingles/n64/yoshi\u0027s-story.mp3"
                     },
                     {
                         "game":  "3D Space Tank",
@@ -1026,8 +1026,8 @@
                         "file":  "jingles/nds/diddy-kong-racing-ds.mp3"
                     },
                     {
-                        "game":  "Dr Kawashimas Brain Training - How Old Is Your Brain",
-                        "file":  "jingles/nds/dr-kawashimas-brain-training-how-old-is-your-brain.mp3"
+                        "game":  "Dr Kawashima\u0027s Brain Training - How Old Is Your Brain",
+                        "file":  "jingles/nds/dr-kawashima\u0027s-brain-training-how-old-is-your-brain.mp3"
                     },
                     {
                         "game":  "Elite Beat Agents",
@@ -1090,12 +1090,12 @@
                         "file":  "jingles/nds/legend-of-zelda,-the-spirit-tracks.mp3"
                     },
                     {
-                        "game":  "Magicians Quest - Mysterious Times",
-                        "file":  "jingles/nds/magicians-quest-mysterious-times.mp3"
+                        "game":  "Magician\u0027s Quest - Mysterious Times",
+                        "file":  "jingles/nds/magician\u0027s-quest-mysterious-times.mp3"
                     },
                     {
-                        "game":  "Mario and Luigi - Bowsers Inside Story",
-                        "file":  "jingles/nds/mario-and-luigi-bowsers-inside-story.mp3"
+                        "game":  "Mario and Luigi - Bowser\u0027s Inside Story",
+                        "file":  "jingles/nds/mario-and-luigi-bowser\u0027s-inside-story.mp3"
                     },
                     {
                         "game":  "Mario and Luigi - Partners in Time",
@@ -1286,16 +1286,16 @@
                         "file":  "jingles/nds/warioware-touched!.mp3"
                     },
                     {
-                        "game":  "Whats Cooking - Jamie Oliver",
-                        "file":  "jingles/nds/whats-cooking-jamie-oliver.mp3"
+                        "game":  "What\u0027s Cooking - Jamie Oliver",
+                        "file":  "jingles/nds/what\u0027s-cooking-jamie-oliver.mp3"
                     },
                     {
                         "game":  "Yoshi Touch and Go",
                         "file":  "jingles/nds/yoshi-touch-and-go.mp3"
                     },
                     {
-                        "game":  "Yoshis Island DS",
-                        "file":  "jingles/nds/yoshis-island-ds.mp3"
+                        "game":  "Yoshi\u0027s Island DS",
+                        "file":  "jingles/nds/yoshi\u0027s-island-ds.mp3"
                     },
                     {
                         "game":  "Zelda Four Swords - Anniversary Edition",
@@ -1310,8 +1310,8 @@
                         "file":  "jingles/nes/legend-of-zelda,-the-[!].mp3"
                     },
                     {
-                        "game":  "Mike Tysons Punch-Out!!",
-                        "file":  "jingles/nes/mike-tysons-punch-out!!.mp3"
+                        "game":  "Mike Tyson\u0027s Punch-Out!!",
+                        "file":  "jingles/nes/mike-tyson\u0027s-punch-out!!.mp3"
                     },
                     {
                         "game":  "Super Mario Bros. 2",
@@ -1334,12 +1334,12 @@
                         "file":  "jingles/snes/donkey-kong-country.mp3"
                     },
                     {
-                        "game":  "Donkey Kong Country 2 - Diddys Kong Quest",
-                        "file":  "jingles/snes/donkey-kong-country-2-diddys-kong-quest.mp3"
+                        "game":  "Donkey Kong Country 2 - Diddy\u0027s Kong Quest",
+                        "file":  "jingles/snes/donkey-kong-country-2-diddy\u0027s-kong-quest.mp3"
                     },
                     {
-                        "game":  "Donkey Kong Country 3 - Dixie Kongs Double Trouble!",
-                        "file":  "jingles/snes/donkey-kong-country-3-dixie-kongs-double-trouble!.mp3"
+                        "game":  "Donkey Kong Country 3 - Dixie Kong\u0027s Double Trouble!",
+                        "file":  "jingles/snes/donkey-kong-country-3-dixie-kong\u0027s-double-trouble!.mp3"
                     },
                     {
                         "game":  "F-Zero",
@@ -1374,8 +1374,8 @@
                         "file":  "jingles/snes/super-mario-world.mp3"
                     },
                     {
-                        "game":  "Super Mario World 2 - Yoshis Island",
-                        "file":  "jingles/snes/super-mario-world-2-yoshis-island.mp3"
+                        "game":  "Super Mario World 2 - Yoshi\u0027s Island",
+                        "file":  "jingles/snes/super-mario-world-2-yoshi\u0027s-island.mp3"
                     },
                     {
                         "game":  "Super Metroid",
@@ -1422,8 +1422,8 @@
                         "file":  "jingles/wii/pokepark-2-wonders-beyond.mp3"
                     },
                     {
-                        "game":  "PokePark Wii - Pikachus Adventure",
-                        "file":  "jingles/wii/pokepark-wii-pikachus-adventure.mp3"
+                        "game":  "PokePark Wii - Pikachu\u0027s Adventure",
+                        "file":  "jingles/wii/pokepark-wii-pikachu\u0027s-adventure.mp3"
                     },
                     {
                         "game":  "Pokemon Battle Revolution",
