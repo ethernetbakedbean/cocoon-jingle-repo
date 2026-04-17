@@ -1,4 +1,5 @@
 {
+  "name": "ethernet jingle pack",
   "entries": [
     { "game": "Donkey Kong (World) (Rev 1) (SGB Enhanced)", "file": "jingles/gb/Donkey Kong (World) (Rev 1) (SGB Enhanced).wav" },
     { "game": "Donkey Kong Land (USA, Europe) (SGB Enhanced) (patched)", "file": "jingles/gb/Donkey Kong Land (USA, Europe) (SGB Enhanced) (patched).wav" },
@@ -366,7 +367,7 @@
     { "game": "Super Smash Bros for Wii U [Game] [0005000010145000]", "file": "jingles/wiiu/Super Smash Bros for Wii U [Game] [0005000010145000].wav" },
     { "game": "Super Smash Bros for Wii U [Update] [0005000e10145000]", "file": "jingles/wiiu/Super Smash Bros for Wii U [Update] [0005000e10145000].wav" },
     { "game": "THE LEGEND OF ZELDA The Wind Waker HD [Game] [0005000010143600]", "file": "jingles/wiiu/THE LEGEND OF ZELDA The Wind Waker HD [Game] [0005000010143600].wav" },
-    { "game": "THE LEGEND OF ZELDA Twilight Princess HD [Game] [000500001019e600]", "file": "jingles/wiiu/THE LEGEND OF ZELDA Twilight Princess HD [Game] [000500001019e600].wav" },
+    { "game": "THE LEGEND OF ZELDA Twilight Princess HD [Game] [000500001019e600]", "file": "jingles/wiiu/THE LEGEND OF ZELDA Twilight Princess HD [Game] [000500001019e600].wav" }
 
   ]
 }
