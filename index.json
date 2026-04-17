@@ -1322,6 +1322,10 @@
                         "file":  "jingles/nes/super-mario-bros-3.mp3"
                     },
                     {
+                        "game":  "The Mysterious Murasame Castle",
+                        "file":  "jingles/nes/the-mysterious-murasame-castle.mp3"
+                    },        
+                    {
                         "game":  "Zelda II - The Adventure of Link",
                         "file":  "jingles/nes/zelda-ii-the-adventure-of-link.mp3"
                     },
