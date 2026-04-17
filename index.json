@@ -1,4 +1,4 @@
-{
+﻿{
     "name":  "ethernet jingle pack",
     "entries":  [
                     {
@@ -270,8 +270,8 @@
                         "file":  "jingles/gba/pokemon-unbound.mp3"
                     },
                     {
-                        "game":  "PokÃ©mblem",
-                        "file":  "jingles/gba/pokã©mblem.mp3"
+                        "game":  "PokÃƒÂ©mblem",
+                        "file":  "jingles/gba/pokã£â©mblem.mp3"
                     },
                     {
                         "game":  "Project Ember",
@@ -415,7 +415,7 @@
                     },
                     {
                         "game":  "Pokemon Card GB2 - GR Dan Sanjou!",
-                        "file":  "jingles/gbc/pokemon-card-gb2-gr-dan-sanjou!.mp3"
+                        "file":  "jingles/gbc/pokemon-card-gb2-gr-dan-sanjou.mp3"
                     },
                     {
                         "game":  "Pokemon Prism",
@@ -451,23 +451,23 @@
                     },
                     {
                         "game":  "Attack of the Friday Monsters! A Tokyo Tale",
-                        "file":  "jingles/n3ds/attack-of-the-friday-monsters!-a-tokyo-tale.mp3"
+                        "file":  "jingles/n3ds/attack-of-the-friday-monsters-a-tokyo-tale.mp3"
                     },
                     {
                         "game":  "BOXBOXBOY!",
-                        "file":  "jingles/n3ds/boxboxboy!.mp3"
+                        "file":  "jingles/n3ds/boxboxboy.mp3"
                     },
                     {
                         "game":  "BOXBOY!",
-                        "file":  "jingles/n3ds/boxboy!.mp3"
+                        "file":  "jingles/n3ds/boxboy.mp3"
                     },
                     {
                         "game":  "BYE-BYE BOXBOY!",
-                        "file":  "jingles/n3ds/bye-bye-boxboy!.mp3"
+                        "file":  "jingles/n3ds/bye-bye-boxboy.mp3"
                     },
                     {
                         "game":  "Chibi-Robo! Zip Lash",
-                        "file":  "jingles/n3ds/chibi-robo!-zip-lash.mp3"
+                        "file":  "jingles/n3ds/chibi-robo-zip-lash.mp3"
                     },
                     {
                         "game":  "Crimson Shroud",
@@ -515,7 +515,7 @@
                     },
                     {
                         "game":  "Hey! Pikmin",
-                        "file":  "jingles/n3ds/hey!-pikmin.mp3"
+                        "file":  "jingles/n3ds/hey-pikmin.mp3"
                     },
                     {
                         "game":  "Inazuma Eleven 3 - Lightning Bolt",
@@ -1063,7 +1063,7 @@
                     },
                     {
                         "game":  "Inazuma Eleven 3 - Team Ogre Attacks!",
-                        "file":  "jingles/nds/inazuma-eleven-3-team-ogre-attacks!.mp3"
+                        "file":  "jingles/nds/inazuma-eleven-3-team-ogre-attacks.mp3"
                     },
                     {
                         "game":  "Kirby - Mouse Attack",
@@ -1123,7 +1123,7 @@
                     },
                     {
                         "game":  "Mario vs. Donkey Kong - Mini-Land Mayhem!",
-                        "file":  "jingles/nds/mario-vs-donkey-kong-mini-land-mayhem!.mp3"
+                        "file":  "jingles/nds/mario-vs-donkey-kong-mini-land-mayhem.mp3"
                     },
                     {
                         "game":  "Mario vs. Donkey Kong 2 - March of the Minis",
@@ -1199,7 +1199,7 @@
                     },
                     {
                         "game":  "Pokemon Link!",
-                        "file":  "jingles/nds/pokemon-link!.mp3"
+                        "file":  "jingles/nds/pokemon-link.mp3"
                     },
                     {
                         "game":  "Pokemon Mystery Dungeon - Blue Rescue Team",
@@ -1283,7 +1283,7 @@
                     },
                     {
                         "game":  "WarioWare - Touched!",
-                        "file":  "jingles/nds/warioware-touched!.mp3"
+                        "file":  "jingles/nds/warioware-touched.mp3"
                     },
                     {
                         "game":  "What's Cooking - Jamie Oliver",
@@ -1311,7 +1311,7 @@
                     },
                     {
                         "game":  "Mike Tyson's Punch-Out!!",
-                        "file":  "jingles/nes/mike-tysons-punch-out!!.mp3"
+                        "file":  "jingles/nes/mike-tysons-punch-out.mp3"
                     },
                     {
                         "game":  "Super Mario Bros. 2",
@@ -1339,7 +1339,7 @@
                     },
                     {
                         "game":  "Donkey Kong Country 3 - Dixie Kong's Double Trouble!",
-                        "file":  "jingles/snes/donkey-kong-country-3-dixie-kongs-double-trouble!.mp3"
+                        "file":  "jingles/snes/donkey-kong-country-3-dixie-kongs-double-trouble.mp3"
                     },
                     {
                         "game":  "F-Zero",
@@ -1383,7 +1383,7 @@
                     },
                     {
                         "game":  "Super Punch-Out!!",
-                        "file":  "jingles/snes/super-punch-out!!.mp3"
+                        "file":  "jingles/snes/super-punch-out.mp3"
                     },
                     {
                         "game":  "Animal Crossing - City Folk",
@@ -1431,7 +1431,7 @@
                     },
                     {
                         "game":  "Punch-Out!!",
-                        "file":  "jingles/wii/punch-out!!.mp3"
+                        "file":  "jingles/wii/punch-out.mp3"
                     },
                     {
                         "game":  "Sonic Colors",
